@@ -1,0 +1,5 @@
+*~
+private/
+*.log
+*.pyc
+.ipynb_checkpoints
